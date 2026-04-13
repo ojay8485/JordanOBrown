@@ -7,10 +7,10 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 gsap.registerPlugin(ScrollTrigger);
 
 const links = [
-  { label: 'Email', href: 'mailto:jordanbrown@example.com', display: 'jordanbrown@example.com' },
+  { label: 'Email', href: 'mailto:jordanbrown.engineer@gmail.com', display: 'jordanbrown.engineer@gmail.com' },
   { label: 'Resume', href: '/Jordan_Brown_Resume.pdf', display: 'Download Resume' },
-  { label: 'GitHub', href: 'https://github.com/jordanbrown/', display: 'github.com/jordanbrown' },
-  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/jordan-brown/', display: 'linkedin.com/in/jordan-brown' },
+  { label: 'GitHub', href: 'https://github.com/ojay8485/', display: 'github.com/ojay8485' },
+  { label: 'LinkedIn', href: 'https://www.linkedin.com/in/jordan-brown-engineer/', display: 'linkedin.com/in/jordan-brown-engineer' },
 ];
 
 export default function Contact() {
