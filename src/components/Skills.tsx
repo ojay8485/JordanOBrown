@@ -8,36 +8,24 @@ gsap.registerPlugin(ScrollTrigger);
 
 const skillGroups = [
   {
-    label: 'Languages',
-    skills: 'TypeScript · JavaScript · HTML5 · CSS3',
+    label: 'Languages & Frameworks',
+    skills: 'React · Next.js · Angular · TypeScript · JavaScript · HTML5 · Node.js',
   },
   {
-    label: 'Frameworks',
-    skills: 'React · Next.js · Redux Toolkit · Vite',
+    label: 'UI Libraries & Styling',
+    skills: 'Material UI · CSS-in-JS · CSS · SCSS · Responsive Design',
   },
   {
-    label: 'Styling & Motion',
-    skills: 'Tailwind CSS · CSS Modules · GSAP · Framer Motion',
+    label: 'State Management & Tooling',
+    skills: 'Zustand · Webpack · Axios · REST APIs',
   },
   {
-    label: 'Architecture',
-    skills: 'Design Systems · Atomic Design · Component Libraries',
+    label: 'Design & Testing',
+    skills: 'Figma · Adobe Illustrator · Jest · WCAG Accessibility',
   },
   {
-    label: 'Testing',
-    skills: 'Jest · React Testing Library · Cypress',
-  },
-  {
-    label: 'Tools',
-    skills: 'Git · Webpack · Figma · Storybook',
-  },
-  {
-    label: 'Platforms',
-    skills: 'macOS · Windows 11 · Linux',
-  },
-  {
-    label: 'Cloud & AI',
-    skills: 'Vercel · Netlify · Google Cloud Platform (GCP) · Gemini',
+    label: 'Version Control',
+    skills: 'Git · GitHub · GitLab',
   },
 ];
 

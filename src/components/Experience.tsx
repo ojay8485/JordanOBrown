@@ -8,34 +8,34 @@ gsap.registerPlugin(ScrollTrigger);
 
 const roles = [
   {
-    period: 'Feb 2026 — Present',
-    title: 'Frontend Engineer',
-    company: "Macy's — Digital Services (Product Onboarding)",
-    impact: 'Architecting high-fidelity user interfaces for product onboarding and pricing engines. Developing interactive dashboards and sales configuration tools that streamline promotional workflows and improve internal user efficiency by 30%.',
-  },
-  {
-    period: 'Feb 2025 — Feb 2026',
-    title: 'Frontend Developer',
-    company: "Macy's — Product Recommendation Platform",
-    impact: 'Engineered dynamic recommendation carousels and personalized shopping interfaces using React and Next.js. Integrated real-time data streams from Kafka into the frontend, ensuring millisecond-level responsiveness for high-traffic commerce events.',
-  },
-  {
-    period: 'Sep 2024 — Feb 2025',
-    title: 'Frontend Engineer',
-    company: "Macy's — Digital Marketplace",
-    impact: 'Revamped the content review dashboard with a focus on usability and responsive design. Optimized client-side performance, reducing initial load times and improving the operational speed of the review process. Collaborated closely with backend teams to define scalable API contracts.',
-  },
-  {
-    period: 'Feb 2024 — Sep 2024',
-    title: 'Software Engineer',
-    company: 'Grid Dynamics — Badge Management System',
-    impact: 'Designed and implemented the user interface for an internal enterprise badge management system. Focused on building reusable component libraries and conducting extensive accessibility audits to ensure WCAG compliance.',
-  },
-  {
-    period: 'Mar 2023 — Present',
-    title: 'Frontend Engineer',
+    period: 'May 2025 — Jan 2026',
+    title: 'Software Developer (R&D & Innovation)',
     company: 'Grid Dynamics',
-    impact: 'Implementing and maintaining enterprise-grade web applications. Focused on delivering high-performance, pixel-perfect frontend solutions and optimizing modern JavaScript frameworks for large-scale production environments.',
+    impact: 'Led frontend development for an internal AI-powered workflow orchestration platform, serving as the sole frontend engineer and UI/UX designer. Delivered a fully functional MVP within 6 weeks, supporting over 5 integrated bots and improving operational efficiency by 25%.',
+  },
+  {
+    period: 'Mar 2024 — May 2025',
+    title: 'Software Developer (Tools-Badges-HR)',
+    company: 'Grid Dynamics',
+    impact: 'Designed and implemented a company-wide HR badges system for 4,900+ employees. Integrated real-time analytics dashboards that increased user engagement by 34% and reduced administrative overhead by 25%.',
+  },
+  {
+    period: 'Sep 2023 — Feb 2024',
+    title: 'Junior Software Developer',
+    company: 'Grid Dynamics',
+    impact: 'Contributed to production features using Next.js and TypeScript. Built reusable UI components with Material UI and gained hands-on experience with modern frontend tooling and Agile development workflows.',
+  },
+  {
+    period: 'Mar 2023 — Aug 2023',
+    title: 'Software Engineer Intern',
+    company: 'Grid Dynamics',
+    impact: 'Built responsive UI components using React, TypeScript, and Material UI. Completed JavaScript algorithm challenges and improved UI consistency across internal projects.',
+  },
+  {
+    period: 'Sep 2019 — Jun 2022',
+    title: 'UI/UX Designer',
+    company: 'CookieNerds',
+    impact: 'Improved key user flows and interface usability through iterative redesigns and testing. Delivered 20+ high-fidelity screens in Figma, accelerating developer implementation by 25% and increasing user task completion efficiency by 30%.',
   },
 ];
 

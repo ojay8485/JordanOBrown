@@ -81,11 +81,11 @@ export default function About() {
             <div className="about-item w-12 h-[1px] bg-white/25 mb-10" />
 
             <p className="about-item text-white/70 text-base md:text-lg leading-relaxed font-light mb-6 max-w-lg">
-              I&apos;m a frontend software engineer with 3+ years of experience crafting immersive, high-performance web applications. My expertise lies in building sophisticated user interfaces that blend seamless motion with technical precision, primarily using React, Next.js, and TypeScript.
+              I&apos;m a frontend-focused software engineer specialized in building scalable, user-centered web applications. My core expertise lies in translating complex designs into high-quality, accessible interfaces using React, Next.js, and TypeScript.
             </p>
 
             <p className="about-item text-white/70 text-base md:text-lg leading-relaxed font-light max-w-lg">
-              I specialize in bridging the gap between design and development — creating fluid animations with GSAP, architecting scalable component libraries, and integrating AI-powered features into modern digital products. I focus on performance, accessibility, and high-fidelity visuals.
+              With experience spanning UI/UX design and full-cycle frontend development, I focus on delivering impactful, production-ready solutions. I thrive in cross-functional environments where I can bridge the gap between creative vision and technical execution.
             </p>
           </div>
 

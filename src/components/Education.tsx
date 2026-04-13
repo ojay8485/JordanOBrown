@@ -15,24 +15,9 @@ interface Certification {
 
 const certifications: Certification[] = [
   {
-    name: 'Google Cloud Platform (GCP) Certification',
-    issued: 'Sep 2023',
-    credentialId: 'yDjHE6',
+    name: 'AWS Certified Cloud Practitioner',
+    issued: '2024',
   },
-  {
-    name: 'MongoDB Java Developer Path',
-    issued: 'Feb 2024',
-    credentialId: 'MDBn6rxm2mvrb',
-  },
-  {
-    name: 'OWASP API Security',
-    url: 'https://www.credly.com/badges/440959b5-3d46-4db9-8801-7b3e8664575e/public_url',
-  },
-  { name: 'Advanced Java Programming' },
-  { name: 'Spring Framework & Design Patterns' },
-  { name: 'Distributed Systems & Microservices Architecture' },
-  { name: 'SQL & NoSQL Databases' },
-  { name: 'Object‑Oriented Design & Data Structures' },
 ];
 
 export default function Education() {
@@ -120,7 +105,7 @@ export default function Education() {
                 Bachelor of Science in Computer Science
               </h4>
               <p className="text-white/60 text-base leading-relaxed font-light">
-                University of Technology, Jamaica
+                University of the West Indies, Mona
               </p>
             </div>
           </div>
