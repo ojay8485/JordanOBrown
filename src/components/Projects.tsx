@@ -45,6 +45,12 @@ const projects = [
     tech: 'JavaScript · JSON Architecture · Game Logic',
     launched: false,
   },
+  {
+    title: 'MonaJerk',
+    description: 'A specialized web application for tracking jerk cooking schedules and placing advance meal orders, streamlining the local culinary experience.',
+    tech: 'Next.js · TypeScript · Tailwind CSS',
+    launched: false,
+  },
 ];
 
 export default function Projects() {
